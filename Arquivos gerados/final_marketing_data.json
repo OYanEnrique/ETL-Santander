@@ -1,0 +1,52 @@
+[
+  {
+    "UserID": 1,
+    "Name": "Alice Silva",
+    "news": [
+      {
+        "icon": "",
+        "description": "Alice, investir hoje é plantar segurança para o amanhã."
+      }
+    ]
+  },
+  {
+    "UserID": 2,
+    "Name": "Bruno Souza",
+    "news": [
+      {
+        "icon": "",
+        "description": "Bruno, invista hoje e faça seu futuro render mais."
+      }
+    ]
+  },
+  {
+    "UserID": 3,
+    "Name": "Carla Dias",
+    "news": [
+      {
+        "icon": "",
+        "description": "Carla, invista hoje e faça seu futuro render mais!"
+      }
+    ]
+  },
+  {
+    "UserID": 4,
+    "Name": "Diego Ramos",
+    "news": [
+      {
+        "icon": "",
+        "description": "Diego, invista hoje e colha o futuro que você merece."
+      }
+    ]
+  },
+  {
+    "UserID": 5,
+    "Name": "Elena Luz",
+    "news": [
+      {
+        "icon": "",
+        "description": "Elena, investir hoje é garantir seu futuro brilhante."
+      }
+    ]
+  }
+]
