@@ -94,7 +94,7 @@ UserID,Name
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/ETL-Santander.git
+git clone https://github.com/OYanEnrique/ETL-Santander.git
 cd ETL-Santander
 ```
 
